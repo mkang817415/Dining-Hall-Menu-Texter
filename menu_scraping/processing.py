@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 
 # Glolbal variables 
 MEALS = ['Breakfast', 'Lunch', 'Dinner'] 
-TIMES = [8, 12, 17]
+TIMES = [8, 12, 14]
 DINING_HALLS = ['Thorne', 'Moulton Union']
 BOWDOIN_MENU_URL = 'https://www.bowdoin.edu/dining/menus/index.html'
 

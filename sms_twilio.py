@@ -50,4 +50,5 @@ if __name__ == '__main__':
     menu = get_menu()
     message = send_menu(menu)
     
-    send_message(message)
+    send_message(message, receiver='+18187951135')
+    send_message('whats up minj this is ming', receiver='+18187951135')
