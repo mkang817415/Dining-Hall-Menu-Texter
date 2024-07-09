@@ -30,3 +30,4 @@ def generate_prompt(menus: str):
       response = model.generate_content(menu_prompt + menus)
       return response.text
    
+# print(generate_prompt("sjdfsd"))
